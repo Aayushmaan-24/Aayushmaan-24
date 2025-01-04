@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aayushmaan-24
 - 👀 I’m interested in Machine Learning and Penetration Testing
-- 🌱 I’m currently learning Linux , Python Libraries , Azure
+- 🌱 I’m currently learning Linux , Machine Learning and Quant Analysis
 - 💞️ I’m looking to collaborate on Collab
 - 📫 How to reach me aayushmaan.chakraborty@gmail.com
 
