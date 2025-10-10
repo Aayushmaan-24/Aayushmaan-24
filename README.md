@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aayushmaan-24
-- 👀 I’m interested in Machine Learning and Penetration Testing
-- 🌱 I’m currently learning Linux , Machine Learning and Quant Analysis
-- 💞️ I’m looking to collaborate on Collab
+- 👋 Hi, I’m Aayushmaan
+- 👀 I’m interested in GenAI and Agents
+- 🌱 I’m currently learning ML and FullStack Web development
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me aayushmaan.chakraborty@gmail.com
 
 <!---
