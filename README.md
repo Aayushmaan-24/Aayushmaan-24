@@ -1,4 +1,4 @@
-# Hi, I'm Aayushmaan Chakraborty 👋
+# Hi, I'm Aayushmaan 👋
 
 🎓 CSE (AI/ML) 
 🔬 Interested in on-device AI, speech processing, and LLM engineering  
