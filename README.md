@@ -1,6 +1,6 @@
 # Hi, I'm Aayushmaan 👋
 
-🎓 CSE (AI/ML) 
+🎓 CSE (AI/ML)   
 🔬 Interested in on-device AI, speech processing, and LLM engineering  
 🏆 2x Hackathon
 
